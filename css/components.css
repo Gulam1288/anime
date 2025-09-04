@@ -320,6 +320,7 @@
     margin-bottom: 0.75rem;
     font-size: 0.85rem;
     color: var(--text-muted);
+    flex-wrap: wrap;
 }
 
 .meta-item {
@@ -689,3 +690,4 @@
     transform: none !important;
     visibility: visible !important;
 }
+
